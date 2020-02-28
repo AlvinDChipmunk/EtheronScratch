@@ -1,11 +1,7 @@
-Escape From Ecma Labs
+#Scratch game JS code for Etheron RPG group project
 =====================
+This source code is from a game "Escape From Ecma Labs", a roguelike game for the browser written in js using [js-roguelike-skeleton](https://github.com/unstoppablecarl/js-roguelike-skeleton)
 
-A roguelike game for the browser written in js using [js-roguelike-skeleton](https://github.com/unstoppablecarl/js-roguelike-skeleton)
+Latest version of that game is at:  [Play Latest Version](http://unstoppablecarl.github.io/escape-from-ecma-labs/)
 
-It is currently under heavy development.
-
-#### Map Template Contributions Wanted
-The final game will generate a game map using small map templates. Anyone can contribute a map template that will be used in the final game. Credit will be given. See the [map-templates/example.js](map-templates/example.js) file for details.
-
-[Play Latest Version](http://unstoppablecarl.github.io/escape-from-ecma-labs/)
+We of the school group project "Etheron RPG", do not claim ownership / creation credit for this source code.  We are using this as a way to learn and enhance our JavaScript skills, in a group project setting.
